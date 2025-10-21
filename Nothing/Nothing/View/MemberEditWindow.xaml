@@ -1,0 +1,50 @@
+﻿<Window x:Class="Nothing.View.MemberEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактировать участника" Height="300" Width="400" WindowStartupLocation="CenterOwner">
+
+    <Window.Resources>
+        <Style x:Key="PhoneTextBoxStyle" TargetType="TextBox">
+            <EventSetter Event="PreviewTextInput" Handler="PhoneTextBox_PreviewTextInput"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Vertical" Grid.Row="0" Margin="0,0,0,5">
+            <TextBlock Text="Имя:"/>
+            <TextBox Text="{Binding Member.Name}" />
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="1" Margin="0,0,0,5">
+            <TextBlock Text="Домашний телефон:"/>
+            <TextBox Text="{Binding Member.HomePhone}" 
+                     Style="{StaticResource PhoneTextBoxStyle}"
+                     ToolTip="Допустимы: цифры 0-9, +, -, (, )"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="2" Margin="0,0,0,5">
+            <TextBlock Text="Рабочий телефон:"/>
+            <TextBox Text="{Binding Member.WorkPhone}" 
+                     Style="{StaticResource PhoneTextBoxStyle}"
+                     ToolTip="Допустимы: цифры 0-9, +, -, (, )"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="3" Margin="0,0,0,5">
+            <TextBlock Text="Адрес:"/>
+            <TextBox Text="{Binding Member.Address}" />
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Row="4" Margin="0,10,0,0">
+            <Button Content="Сохранить" Width="100" Margin="5" Command="{Binding SaveCommand}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}"/>
+            <Button Content="Отмена" Width="100" Margin="5" Command="{Binding CancelCommand}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}"/>
+        </StackPanel>
+    </Grid>
+</Window>

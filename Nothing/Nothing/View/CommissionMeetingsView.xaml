@@ -1,0 +1,96 @@
+﻿<Window x:Class="Nothing.View.CommissionMeetingsView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Управление заседаниями комиссий" Height="600" Width="900"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Заголовок -->
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="3" Text="Заседания комиссий" 
+                   FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+        <!-- Левая часть: Список заседаний -->
+        <GroupBox Grid.Row="1" Grid.Column="0" Header="Заседания" Margin="0,0,5,0">
+            <DockPanel>
+                <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="0,0,0,5">
+                    <Button Content="Добавить" Command="{Binding AddMeetingCommand}" Margin="0,0,5,0"/>
+                    <Button Content="Сохранить" Command="{Binding SaveMeetingCommand}" Margin="0,0,5,0"/>
+                    <Button Content="Удалить" Command="{Binding DeleteMeetingCommand}"/>
+                </StackPanel>
+
+                <!-- УБРАЛ DisplayMemberPath - оставил только ItemTemplate -->
+                <ListBox ItemsSource="{Binding Meetings}" SelectedItem="{Binding SelectedMeeting}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Vertical" Margin="5">
+                                <TextBlock Text="{Binding MeetingDateTime, StringFormat='dd.MM.yyyy HH:mm'}" 
+                                           FontWeight="Bold"/>
+                                <TextBlock Text="{Binding Commission.Name}" FontStyle="Italic"/>
+                                <TextBlock Text="{Binding Location}"/>
+                                <TextBlock Text="{Binding MeetingAttendees.Count, StringFormat='Участников: {0}'}" 
+                                           Foreground="Gray"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </DockPanel>
+        </GroupBox>
+
+        <!-- Центральная часть: Редактирование заседания -->
+        <GroupBox Grid.Row="1" Grid.Column="1" Header="Редактирование" Margin="5,0,5,0">
+            <StackPanel>
+                <TextBlock Text="Комиссия:"/>
+                <ComboBox ItemsSource="{Binding Commissions}" 
+                          SelectedItem="{Binding SelectedMeeting.Commission}"
+                          DisplayMemberPath="Name" Margin="0,0,0,10"/>
+
+                <TextBlock Text="Дата и время:"/>
+                <DatePicker SelectedDate="{Binding SelectedMeeting.MeetingDateTime}" 
+                            Margin="0,0,0,10"/>
+
+                <TextBlock Text="Место:"/>
+                <TextBox Text="{Binding SelectedMeeting.Location}" Margin="0,0,0,10"/>
+            </StackPanel>
+        </GroupBox>
+
+        <!-- Правая часть: Участники заседания -->
+        <GroupBox Grid.Row="1" Grid.Column="2" Header="Участники" Margin="5,0,0,0">
+            <DockPanel>
+                <!-- Добавление участника -->
+                <StackPanel DockPanel.Dock="Top" Margin="0,0,0,5">
+                    <ComboBox ItemsSource="{Binding AllMembers}" 
+                              SelectedItem="{Binding SelectedMemberToAdd}"
+                              DisplayMemberPath="Name" Margin="0,0,0,5"/>
+                    <Button Content="Добавить участника" Command="{Binding AddAttendeeCommand}"/>
+                </StackPanel>
+
+                <!-- Список участников -->
+                <ListBox ItemsSource="{Binding CurrentAttendees}" 
+                         SelectedItem="{Binding SelectedAttendee}"
+                         DisplayMemberPath="Member.Name"/>
+
+                <!-- Удаление участника -->
+                <Button DockPanel.Dock="Bottom" Content="Удалить участника" 
+                        Command="{Binding RemoveAttendeeCommand}"/>
+            </DockPanel>
+        </GroupBox>
+
+        <!-- Кнопки управления -->
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="3" Orientation="Horizontal" 
+                    HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button Content="Закрыть" Width="100" Margin="5" 
+                    Click="CloseButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

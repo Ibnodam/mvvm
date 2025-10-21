@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\view\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\view\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\model\\meetingattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\model\\meetingattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\model\\dumamember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\model\\dumamember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\model\\commissionmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\model\\commissionmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\model\\commissionmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\model\\commissionmeeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\model\\commissionchair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\model\\commissionchair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\model\\commission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\model\\commission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\model\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\model\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\view\\commissionmembershipeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\view\\commissionmembershipeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\validation\\datevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\validation\\datevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\view\\membereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\view\\membereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\view\\membereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\view\\membereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\viewmodel\\membereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\viewmodel\\membereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\validation\\selectionvalidationstringrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\validation\\selectionvalidationstringrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\validation\\selectionvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\validation\\selectionvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\validation\\onlydigitsvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\validation\\onlydigitsvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\validation\\notempty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\validation\\notempty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\validation\\namevalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\validation\\namevalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\viewmodel\\commissionsmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\viewmodel\\commissionsmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\viewmodel\\commissionreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\viewmodel\\commissionreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\viewmodel\\commissionmembershipviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\viewmodel\\commissionmembershipviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\viewmodel\\commissionmembershipeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\viewmodel\\commissionmembershipeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\viewmodel\\commissionmeetingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\viewmodel\\commissionmeetingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\viewmodel\\commissionactivityreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\viewmodel\\commissionactivityreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|c:\\users\\valij\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\nothing\\nothing\\viewmodel\\attendancereportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1029AE25-3F06-459D-ACD3-52E5D237C4AF}|Nothing\\Nothing.csproj|solutionrelative:nothing\\viewmodel\\attendancereportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\View\\AuthWindow.xaml",
+              "RelativeDocumentMoniker": "Nothing\\View\\AuthWindow.xaml",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\View\\AuthWindow.xaml",
+              "RelativeToolTip": "Nothing\\View\\AuthWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T20:51:55.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommissionMembership.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\CommissionMembership.cs",
+              "RelativeDocumentMoniker": "Nothing\\Model\\CommissionMembership.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\CommissionMembership.cs",
+              "RelativeToolTip": "Nothing\\Model\\CommissionMembership.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:32:36.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommissionMeeting.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\CommissionMeeting.cs",
+              "RelativeDocumentMoniker": "Nothing\\Model\\CommissionMeeting.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\CommissionMeeting.cs",
+              "RelativeToolTip": "Nothing\\Model\\CommissionMeeting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:32:34.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommissionChair.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\CommissionChair.cs",
+              "RelativeDocumentMoniker": "Nothing\\Model\\CommissionChair.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\CommissionChair.cs",
+              "RelativeToolTip": "Nothing\\Model\\CommissionChair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:32:30.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Commission.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\Commission.cs",
+              "RelativeDocumentMoniker": "Nothing\\Model\\Commission.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\Commission.cs",
+              "RelativeToolTip": "Nothing\\Model\\Commission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:32:27.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\BaseClass.cs",
+              "RelativeDocumentMoniker": "Nothing\\Model\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\BaseClass.cs",
+              "RelativeToolTip": "Nothing\\Model\\BaseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:24:25.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\App.xaml",
+              "RelativeDocumentMoniker": "Nothing\\App.xaml",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\App.xaml",
+              "RelativeToolTip": "Nothing\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T03:24:12.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommissionMembershipEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\View\\CommissionMembershipEditWindow.xaml",
+              "RelativeDocumentMoniker": "Nothing\\View\\CommissionMembershipEditWindow.xaml",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\View\\CommissionMembershipEditWindow.xaml",
+              "RelativeToolTip": "Nothing\\View\\CommissionMembershipEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T12:44:34.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeetingAttendee.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\MeetingAttendee.cs",
+              "RelativeDocumentMoniker": "Nothing\\Model\\MeetingAttendee.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\MeetingAttendee.cs",
+              "RelativeToolTip": "Nothing\\Model\\MeetingAttendee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:32:42.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MemberEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\View\\MemberEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Nothing\\View\\MemberEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\View\\MemberEditWindow.xaml.cs",
+              "RelativeToolTip": "Nothing\\View\\MemberEditWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:35:53.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DumaMember.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\DumaMember.cs",
+              "RelativeDocumentMoniker": "Nothing\\Model\\DumaMember.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Model\\DumaMember.cs",
+              "RelativeToolTip": "Nothing\\Model\\DumaMember.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:34:41.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\View\\MemberEditWindow.xaml",
+              "RelativeDocumentMoniker": "Nothing\\View\\MemberEditWindow.xaml",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\View\\MemberEditWindow.xaml",
+              "RelativeToolTip": "Nothing\\View\\MemberEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T12:34:17.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemberEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\MemberEditViewModel.cs",
+              "RelativeDocumentMoniker": "Nothing\\ViewModel\\MemberEditViewModel.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\MemberEditViewModel.cs",
+              "RelativeToolTip": "Nothing\\ViewModel\\MemberEditViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:32:37.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Nothing\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Nothing\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T12:31:32.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SelectionValidationStringRule.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Validation\\SelectionValidationStringRule.cs",
+              "RelativeDocumentMoniker": "Nothing\\Validation\\SelectionValidationStringRule.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Validation\\SelectionValidationStringRule.cs",
+              "RelativeToolTip": "Nothing\\Validation\\SelectionValidationStringRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:27:25.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SelectionValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Validation\\SelectionValidationRule.cs",
+              "RelativeDocumentMoniker": "Nothing\\Validation\\SelectionValidationRule.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Validation\\SelectionValidationRule.cs",
+              "RelativeToolTip": "Nothing\\Validation\\SelectionValidationRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:26:47.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Validation\\DateValidation.cs",
+              "RelativeDocumentMoniker": "Nothing\\Validation\\DateValidation.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Validation\\DateValidation.cs",
+              "RelativeToolTip": "Nothing\\Validation\\DateValidation.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:24:43.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OnlyDigitsValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Validation\\OnlyDigitsValidationRule.cs",
+              "RelativeDocumentMoniker": "Nothing\\Validation\\OnlyDigitsValidationRule.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Validation\\OnlyDigitsValidationRule.cs",
+              "RelativeToolTip": "Nothing\\Validation\\OnlyDigitsValidationRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:26:20.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotEmpty.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Validation\\NotEmpty.cs",
+              "RelativeDocumentMoniker": "Nothing\\Validation\\NotEmpty.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Validation\\NotEmpty.cs",
+              "RelativeToolTip": "Nothing\\Validation\\NotEmpty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:25:45.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NameValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Validation\\NameValidationRule.cs",
+              "RelativeDocumentMoniker": "Nothing\\Validation\\NameValidationRule.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\Validation\\NameValidationRule.cs",
+              "RelativeToolTip": "Nothing\\Validation\\NameValidationRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:25:19.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Nothing\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "Nothing\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwE4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:09:22.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CommissionsManagementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\CommissionsManagementViewModel.cs",
+              "RelativeDocumentMoniker": "Nothing\\ViewModel\\CommissionsManagementViewModel.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\CommissionsManagementViewModel.cs",
+              "RelativeToolTip": "Nothing\\ViewModel\\CommissionsManagementViewModel.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:45:07.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CommissionReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\CommissionReportViewModel.cs",
+              "RelativeDocumentMoniker": "Nothing\\ViewModel\\CommissionReportViewModel.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\CommissionReportViewModel.cs",
+              "RelativeToolTip": "Nothing\\ViewModel\\CommissionReportViewModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:44:58.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CommissionMembershipViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\CommissionMembershipViewModel.cs",
+              "RelativeDocumentMoniker": "Nothing\\ViewModel\\CommissionMembershipViewModel.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\CommissionMembershipViewModel.cs",
+              "RelativeToolTip": "Nothing\\ViewModel\\CommissionMembershipViewModel.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAkwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:44:11.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CommissionMembershipEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\CommissionMembershipEditViewModel.cs",
+              "RelativeDocumentMoniker": "Nothing\\ViewModel\\CommissionMembershipEditViewModel.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\CommissionMembershipEditViewModel.cs",
+              "RelativeToolTip": "Nothing\\ViewModel\\CommissionMembershipEditViewModel.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:44:07.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CommissionMeetingsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\CommissionMeetingsViewModel.cs",
+              "RelativeDocumentMoniker": "Nothing\\ViewModel\\CommissionMeetingsViewModel.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\CommissionMeetingsViewModel.cs",
+              "RelativeToolTip": "Nothing\\ViewModel\\CommissionMeetingsViewModel.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:43:42.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CommissionActivityReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\CommissionActivityReportViewModel.cs",
+              "RelativeDocumentMoniker": "Nothing\\ViewModel\\CommissionActivityReportViewModel.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\CommissionActivityReportViewModel.cs",
+              "RelativeToolTip": "Nothing\\ViewModel\\CommissionActivityReportViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:30:00.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AttendanceReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\AttendanceReportViewModel.cs",
+              "RelativeDocumentMoniker": "Nothing\\ViewModel\\AttendanceReportViewModel.cs",
+              "ToolTip": "C:\\Users\\valij\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Nothing\\Nothing\\ViewModel\\AttendanceReportViewModel.cs",
+              "RelativeToolTip": "Nothing\\ViewModel\\AttendanceReportViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:28:52.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

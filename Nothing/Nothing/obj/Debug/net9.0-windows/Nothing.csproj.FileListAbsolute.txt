@@ -1,0 +1,816 @@
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.exe
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.deps.json
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.runtimeconfig.json
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.pdb
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\System.Text.Json.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\MainWindow.g.cs
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing_MarkupCompile.cache
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing_MarkupCompile.lref
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\MainWindow.baml
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.g.resources
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.Up2Date
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.dll
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\refint\Nothing.dll
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.pdb
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.genruntimeconfig.cache
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\ref\Nothing.dll
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\T1Window.g.cs
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\T1Window.baml
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\MaterialDesignColors.dll
+C:\Users\HP\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\App.baml
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\AddDumaWindow.g.cs
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\AddDumaWindow.baml
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\EditDumaWindow.g.cs
+C:\Users\HP\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\EditDumaWindow.baml
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.AssemblyReference.cache
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\View\AddDumaWindow.g.cs
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\View\EditDumaWindow.g.cs
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\View\MainWindow.g.cs
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\View\T1Window.g.cs
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\App.g.cs
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing_MarkupCompile.cache
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing_MarkupCompile.lref
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.dll
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\refint\Nothing.dll
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.pdb
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.exe
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.deps.json
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.runtimeconfig.json
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.pdb
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Humanizer.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\MaterialDesignColors.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Data.Sqlite.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\System.Text.Json.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\App.baml
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\View\AddDumaWindow.baml
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\View\EditDumaWindow.baml
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\View\MainWindow.baml
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\View\T1Window.baml
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.g.resources
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.AssemblyInfoInputs.cache
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.AssemblyInfo.cs
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.CoreCompileInputs.cache
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.Up2Date
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.genruntimeconfig.cache
+D:\Nothing\Nothing\obj\Debug\net9.0-windows\ref\Nothing.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.exe
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.deps.json
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.runtimeconfig.json
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.pdb
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Humanizer.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\MaterialDesignColors.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\MaterialDesignThemes.Wpf.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Data.Sqlite.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.AssemblyReference.cache
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\View\AddDumaWindow.g.cs
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\View\EditDumaWindow.g.cs
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\View\MainWindow.g.cs
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\View\T1Window.g.cs
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\App.g.cs
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing_MarkupCompile.cache
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing_MarkupCompile.lref
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\App.baml
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\View\AddDumaWindow.baml
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\View\EditDumaWindow.baml
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\View\MainWindow.baml
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\View\T1Window.baml
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.g.resources
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.AssemblyInfoInputs.cache
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.AssemblyInfo.cs
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.CoreCompileInputs.cache
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.Up2Date
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.dll
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\refint\Nothing.dll
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.pdb
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.genruntimeconfig.cache
+E:\Nothing\Nothing\obj\Debug\net9.0-windows\ref\Nothing.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.AssemblyReference.cache
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\AttendanceReportView.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\AttendeeEditWindow.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\AttendeesWindow.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\ComissionsWindow.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommisionEditWindow.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionMeetingsView.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionMembershipEditWindow.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionsManagementView.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionsReportView.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\MeetingEditWindow.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\MeetingsWindow.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\MemberEditWindow.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\AttendanceReportView.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\AttendeeEditWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\AttendeesWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\ComissionsWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommisionEditWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionMeetingsView.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionMembershipEditWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionMembershipWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionReportWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionsManagementView.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionsReportView.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\MainWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\MeetingEditWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\MeetingsWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\MemberEditWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\MembersWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing_MarkupCompile.cache
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing_MarkupCompile.lref
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.exe
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.deps.json
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.runtimeconfig.json
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.pdb
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\MaterialDesignColors.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionActivityReportView.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionActivityReportView.g.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\App.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionMembershipWindow.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionReportWindow.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\MainWindow.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\MembersWindow.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.g.resources
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.AssemblyInfoInputs.cache
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.AssemblyInfo.cs
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.CoreCompileInputs.cache
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.Up2Date
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\refint\Nothing.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.pdb
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.genruntimeconfig.cache
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\ref\Nothing.dll
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\AuthWindow.baml
+C:\Users\valij\OneDrive\Desktop\Nothing\Nothing\obj\Debug\net9.0-windows\View\AuthWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.exe
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.deps.json
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.runtimeconfig.json
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Nothing.pdb
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\MaterialDesignColors.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\bin\Debug\net9.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.AssemblyReference.cache
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\AttendanceReportView.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionActivityReportView.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionMeetingsView.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionMembershipEditWindow.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionsManagementView.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionsReportView.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\MeetingEditWindow.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\MeetingsWindow.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\MemberEditWindow.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\AttendanceReportView.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionActivityReportView.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionMeetingsView.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionMembershipEditWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionReportWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionsManagementView.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionsReportView.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\MainWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\MeetingEditWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\MeetingsWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\MemberEditWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing_MarkupCompile.cache
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing_MarkupCompile.lref
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\App.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionReportWindow.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\MainWindow.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.g.resources
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.AssemblyInfoInputs.cache
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.AssemblyInfo.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.CoreCompileInputs.cache
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.csproj.Up2Date
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\refint\Nothing.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.pdb
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\Nothing.genruntimeconfig.cache
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\ref\Nothing.dll
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\AttendeeEditWindow.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\AttendeesWindow.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\AuthWindow.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\ComissionsWindow.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommisionEditWindow.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\AttendeeEditWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\AttendeesWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\AuthWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\ComissionsWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommisionEditWindow.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionMembershipView.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\MembersView.g.cs
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\CommissionMembershipView.baml
+C:\Users\valij\OneDrive\Desktop\Новая папка\Nothing\Nothing\obj\Debug\net9.0-windows\View\MembersView.baml

@@ -1,0 +1,112 @@
+﻿<Window x:Class="Nothing.View.CommissionsReportView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="Отчет по комиссиям - Состав и председатели" Height="600" Width="1000"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Заголовок -->
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Состав комиссий и председатели" 
+                   FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+        <!-- Левая часть: Список комиссий -->
+        <GroupBox Grid.Row="1" Grid.Column="0" Header="Комиссии" Margin="0,0,5,0">
+            <DockPanel>
+                <Button DockPanel.Dock="Top" Content="Обновить" 
+                        Command="{Binding RefreshCommand}" Margin="0,0,0,5"/>
+
+                <ListBox ItemsSource="{Binding Commissions}" 
+                         SelectedItem="{Binding SelectedCommission}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Vertical" Margin="5">
+                                <TextBlock Text="{Binding Name}" FontWeight="Bold" FontSize="12"/>
+                                <TextBlock Text="{Binding Profile}" FontStyle="Italic" 
+                                           Foreground="Gray" FontSize="10"/>
+                                <TextBlock Text="{Binding ChairmanName, StringFormat='Председатель: {0}'}" 
+                                           Foreground="Green" FontSize="10"/>
+                                <TextBlock Text="{Binding CommissionMemberships.Count, StringFormat='Членов: {0}'}" 
+                                           Foreground="Blue" FontSize="10"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </DockPanel>
+        </GroupBox>
+
+        <!-- Правая часть: Детальная информация -->
+        <GroupBox Grid.Row="1" Grid.Column="1" Header="Детальная информация" Margin="5,0,0,0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <!-- Информация о выбранной комиссии -->
+                <StackPanel Grid.Row="0" Orientation="Vertical" Margin="0,0,0,10">
+                    <TextBlock Text="{Binding SelectedCommission.Name}" 
+                               FontSize="14" FontWeight="Bold"/>
+                    <TextBlock Text="{Binding SelectedCommission.Profile}" 
+                               FontStyle="Italic" TextWrapping="Wrap"/>
+                </StackPanel>
+
+                <!-- Председатель -->
+                <GroupBox Grid.Row="1" Header="Председатель" Margin="0,0,0,10">
+                    <TextBlock Text="{Binding SelectedCommission.ChairmanName}" 
+                               FontWeight="Bold" FontSize="12" 
+                               VerticalAlignment="Center" Padding="5"/>
+                </GroupBox>
+
+                <!-- Состав комиссии -->
+                <GroupBox Grid.Row="2" Header="Состав комиссии">
+                    <ListBox ItemsSource="{Binding CurrentMembers}">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Vertical" Margin="5">
+                                    <TextBlock Text="{Binding Member.Name}" FontWeight="SemiBold"/>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Text="Период: " Foreground="Gray"/>
+                                        <TextBlock Text="{Binding StartDate, StringFormat='dd.MM.yyyy'}"/>
+                                        <TextBlock Text=" - " Foreground="Gray"/>
+                                        <TextBlock Text="{Binding EndDate, StringFormat='dd.MM.yyyy'}">
+                                            <TextBlock.Style>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="Text" Value="{Binding EndDate, StringFormat='dd.MM.yyyy'}"/>
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding EndDate}" Value="{x:Null}">
+                                                            <Setter Property="Text" Value="по настоящее время"/>
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </TextBlock.Style>
+                                        </TextBlock>
+                                    </StackPanel>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </GroupBox>
+            </Grid>
+        </GroupBox>
+
+        <!-- Кнопки управления -->
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal" 
+                    HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button Content="Закрыть" Width="100" Margin="5" 
+                    Command="{Binding CloseCommand}" 
+                    CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}"/>
+        </StackPanel>
+    </Grid>
+</Window>
